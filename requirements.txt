@@ -2,3 +2,6 @@ openai
 langchain
 streamlit
 streamlit_chat
+pypdf
+chromadb
+tiktoken
