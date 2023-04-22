@@ -7,6 +7,7 @@ from langchain.chains import RetrievalQA
 import streamlit as st
 from streamlit_chat import message
 
+# test pre-commit hook
 
 pdf_loader = PyPDFLoader("./temporarystreetclosurefora.pdf")
 
